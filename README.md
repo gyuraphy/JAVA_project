@@ -1,11 +1,11 @@
 # JAVA_project
 socket 통신을 이용한 캐치마인드 게임
 
-1.실행방법 
+##1.실행방법 
 CatchMindServer 폴더 내에 CatchMindServer.java 파일을 실행하여 포트를 열어준다
 CatchMindClient 폴더 내에 CatchMindClientMain.java 파일을 실행하여 클라이언트로 접속한다
 
-2.동작원리
+##2.동작원리
 swing 이용해 gui 제작
 socket 통신을 통해 포트를 열고 클라이언트 참여(chat,view 공유)
 클라이언트를 vector[]에 저장
